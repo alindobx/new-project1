@@ -1,0 +1,1 @@
+/*var, ;et. const*/let name = "Bob";console.log("Hrllp", name);const friends = ["bob","Chris", "Tony"];console.log(friends[2]);friends.push("Baseball");for (let i = 0; i < friends.length;i++) {    console.log(i,friends[i]);}
